@@ -1,5 +1,5 @@
-spring.datasource.url=jdbc:mysql://localhost:3306/sp
-spring.datasource.username=root
-spring.datasource.userpwd=123
+db.url=jdbc:mysql://localhost:3306/sp
+db.username=root
+db.userpwd=123
 
-spring.redis.privatekey=eedadad
+pqc.redis.privatekey=eedadad
